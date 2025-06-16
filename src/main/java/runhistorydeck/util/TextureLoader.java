@@ -1,4 +1,4 @@
-package basicmod.util;
+package runhistorydeck.util;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.files.FileHandle;
@@ -9,7 +9,7 @@ import com.megacrit.cardcrawl.cards.AbstractCard;
 import java.util.HashMap;
 import java.util.Locale;
 
-import static basicmod.BasicMod.*;
+import static runhistorydeck.RunHistoryDeckMod.*;
 
 public class TextureLoader {
     private static final HashMap<String, Texture> textures = new HashMap<>();

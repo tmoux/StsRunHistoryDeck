@@ -1,4 +1,4 @@
-package basicmod.util;
+package runhistorydeck.util;
 
 public class KeywordInfo {
     public String ID = "";
